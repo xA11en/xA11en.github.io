@@ -1,0 +1,80 @@
+# Basic
+title: 冰心
+#subtitle: 流年印记
+description: 总有一个人要赢的，那为什么不能是我！____Kobe Bryant 
+# AiKb 艾弗森与科比 我最喜欢的两个NBA球星  答案是艾弗森的绰号 黑曼巴 是科比的绰号
+avatarTitle: AiKb
+# 头像里面的描述
+avatarDesc: 运动/Coding/健康生活
+url: "http://misguangbing.com"
+
+# Comment
+comment:
+    provider: duoshuo
+    duoshuo:
+    short_name: 冰心
+
+# Social
+social:
+    qq: 294040201 
+    wechart: 1010584905 
+    github: xA11en
+    # twitter: 
+    #mail: robotkang@foxmail.com
+    csdn: a11en_03
+
+# 百度统计 
+# 使用博客模板请去掉或者更换 id 
+#baidu:
+    #id: 144d500dd9ac4a65465a14b95f3e4ade 
+
+# Google Analytics
+# 使用博客模板请去掉或者更换 id
+#ga:
+# id: UA-84134159-3   
+#  host: auto  
+
+
+# 《----------------- 上面的信息修改成你自己的 ---------------------------》
+#
+#
+#  _post/ 下的文章更换成你自己的文章
+#  帮忙star一下，感谢~😆 地址： git@github.com:xA11en/xA11en.github.io.git
+#
+#
+# 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
+
+
+permalink: /:year/:month/:title/
+# Format
+highlighter: rouge
+
+textColor: #FF0000
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: 
+
+# The blog button should not be removed.
+blog_button:
+    title: 博客主页
+
+# Navigation buttons in the front page.s
+nav:
+    - {title: 文学院 , description: archive, url: '/archive'}   
+    - {title: 标签党, description: tags, url: '/tags'}   
+   # - {title: 八卦门, description: liuyan, url: '/liuyan'}
+   # - {title: 杂货铺, description: ziyuan, url: '/ziyuan'}
+   # - {title: 盟主位, description: about, url: '/about'}
+
+          
+    
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 20
+paginate_path: "page/:num/"
+
+
+
+
+
