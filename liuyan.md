@@ -5,11 +5,11 @@ comments: true
 ---
 <div width="360" height="250" alt="huanying">
 
- &nbsp;&nbsp; *☆∵ ▁▂▄▂▁．★∵∴☆．★∵∴<br />
+ *☆∵ ▁▂▄▂▁．★∵∴☆．★∵∴<br />
 　∴★◢█████◣* ☆．∴★∵★ * ☆<br />
 　☆◢████☆██◣．∴天氣冷了,☆<br />
-&nbsp;　◢■◤█████◥█◣．送你一件毛衣,* ★<br />
-&nbsp;　◥◤∴█████．◥◤∵小心別著涼了！<br />
+◢■◤█████◥█◣．送你一件毛衣,* ★<br />
+◥◤∴█████．◥◤∵小心別著涼了！<br />
 </div>
 
 <p><h4>hello,轻轻的你来了，你挥一挥衣袖不带走一片云彩，* ☆．∴★∵★ * ☆</h4>     
@@ -41,9 +41,7 @@ comments: true
 					</div>
 				</div>
 			</div>
-			<div class="ssBtn">
-				<div class="adf"></div>
-			</div>
+			
 		</div>
 		<ol id="playlist"></ol>
 </div>
