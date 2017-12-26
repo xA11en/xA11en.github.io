@@ -41,7 +41,7 @@ comments: true
 					</div>
 				</div>
 			</div>
-			
+		</div>	
 		</div>
 		<ol id="playlist"></ol>
 </div>
