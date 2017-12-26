@@ -4,8 +4,6 @@ title: 留言板「MESSAGE」
 comments: true 
 ---
 
-<--!<img src="http://omjh2j5h3.bkt.clouddn.com/2345%E6%88%AA%E5%9B%BE20170318141303_%E7%9C%8B%E5%9B%BE%E7%8E%8B.jpg" width="360" height="250" alt="huanying"/>-->
-
 <div width="360" height="250" alt="huanying">
 
 	 &nbsp;&nbsp; *☆∵ ▁▂▄▂▁．★∵∴☆．★∵∴<br />
@@ -21,6 +19,7 @@ comments: true
 <p><h4>可以交流，可以感叹，可以发飙，可以夸我，还可以打赏呦$$$$$但不可以订外卖 →_→ !</h4>   
 <p><h4>要不我会突突你的  ▄︻┻┳═一  ☺ </h4>
 <p>
+<br/>
 {% include dashang.html %}
 <div id="QPlayer" class="QPlayer">
 		<div id="pContent">
@@ -51,11 +50,7 @@ comments: true
 </div>
 <script src="/js/jquery.min.js"></script>
 <script src="/js/jquery.marquee.min.js"></script>
-<script src="/js/player.js"></script>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title></title>
-<link rel="stylesheet" href="/css/player.css">
+
 <script>
 	var playlist = [
 			{
@@ -68,6 +63,7 @@ comments: true
 	var isRotate = true;
 	var autoplay = true;
 </script>
+<script src="/js/player.js"></script>
 <script>
 	function bgChange() {
 		var lis = $('.lib');
@@ -76,7 +72,11 @@ comments: true
 		}
 	window.onload = bgChange;
 </script>
-	
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title></title>
+<link rel="stylesheet" href="/css/player.css">	
 <script>
 	myVid = document.getElementById("audio1");
 	function setHalfVolume() {
