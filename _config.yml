@@ -62,9 +62,9 @@ blog_button:
 nav:
     - {title: 文学院 , description: archive, url: '/archive'}   
     - {title: 标签党, description: tags, url: '/tags'}   
-   # - {title: 八卦门, description: liuyan, url: '/liuyan'}
+    - {title: 对站长说, description: liuyan, url: '/liuyan'}
    # - {title: 杂货铺, description: ziyuan, url: '/ziyuan'}
-   # - {title: 盟主位, description: about, url: '/about'}
+   # - {title: 站长办公室, description: about, url: '/about'}
 
           
     
