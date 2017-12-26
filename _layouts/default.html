@@ -33,7 +33,8 @@
         <div class="content-wrapper__inner">
             {{ content }}
             {% if site.data.social.valine_comment.enable and page.comments == true %}
-        <div id="comments"><span style="color: red">下面昵称“Anonymous”是可以修改成你自己留言的昵称，方便站长找到你呦~~~</span></div>
+		<span style="color: red">下面昵称“Anonymous”是可以修改成你自己留言的昵称，方便站长找到你呦~~~</span>
+        <div id="comments"></div>
         {% endif %}
     {% include footer.html %}
         </div>
