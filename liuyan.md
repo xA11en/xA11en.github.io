@@ -18,9 +18,9 @@ comments: true
 <p><h4>可以交流，可以感叹，可以发飙，可以夸我，还可以打赏呦$$$$$但不可以订外卖 →_→ !</h4>   
 <p><h4>要不我会突突你的  ▄︻┻┳═一  ☺ </h4>
 <p>
-<br/>
+<br /> 
 {% include dashang.html %}
-<div id="QPlayer" class="QPlayer">
+	<div id="QPlayer" class="QPlayer">
 		<div id="pContent">
 			<div id="player">
 				<span class="cover"></span>
@@ -41,7 +41,9 @@ comments: true
 					</div>
 				</div>
 			</div>
-		</div>	
+			<div class="ssBtn">
+				<div class="adf"></div>
+			</div>
 		</div>
 		<ol id="playlist"></ol>
 </div>
