@@ -4,7 +4,8 @@ title: 留言板「MESSAGE」
 comments: true 
 ---
 
-<--! <img src="http://omjh2j5h3.bkt.clouddn.com/2345%E6%88%AA%E5%9B%BE20170318141303_%E7%9C%8B%E5%9B%BE%E7%8E%8B.jpg" width="360" height="250" alt="huanying"/>-->
+<--!<img src="http://omjh2j5h3.bkt.clouddn.com/2345%E6%88%AA%E5%9B%BE20170318141303_%E7%9C%8B%E5%9B%BE%E7%8E%8B.jpg" width="360" height="250" alt="huanying"/>-->
+
 <div width="360" height="250" alt="huanying">
 
 	 &nbsp;&nbsp; *☆∵ ▁▂▄▂▁．★∵∴☆．★∵∴<br />
@@ -20,6 +21,7 @@ comments: true
 <p><h4>可以交流，可以感叹，可以发飙，可以夸我，还可以打赏呦$$$$$但不可以订外卖 →_→ !</h4>   
 <p><h4>要不我会突突你的  ▄︻┻┳═一  ☺ </h4>
 <p>
+{% include dashang.html %}
 <div id="QPlayer" class="QPlayer">
 		<div id="pContent">
 			<div id="player">
