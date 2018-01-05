@@ -69,6 +69,12 @@ comments: true
 			artist : "李宗盛",
 			mp3 : "http://p22h841lq.bkt.clouddn.com/%E6%9D%8E%E5%AE%97%E7%9B%9B%20-%20%E5%B1%B1%E4%B8%98%20%28Live%29.mp3",
 			cover : "http://p4.music.126.net/Nn8kTtc14uWJw_UWbEc5mg==/7909886650478099.jpg?param=106x106",
+			},
+			{
+			title : "花旦",
+			artist : "周华健",
+			mp3 : "http://p22h841lq.bkt.clouddn.com/%E5%91%A8%E5%8D%8E%E5%81%A5-%E8%8A%B1%E6%97%A6.mp3",
+			cover : "http://p4.music.126.net/Nn8kTtc14uWJw_UWbEc5mg==/7909886650478099.jpg?param=106x106",
 			}
 			];
 	var isRotate = true;
