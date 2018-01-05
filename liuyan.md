@@ -53,9 +53,21 @@ comments: true
 <script>
 	var playlist = [
 			{
-			title : "刚好遇见你",
-			artist : "李玉刚",
-			mp3 : "http://omjh2j5h3.bkt.clouddn.com/music/%E6%9D%8E%E7%8E%89%E5%88%9A%20-%20%E5%88%9A%E5%A5%BD%E9%81%87%E8%A7%81%E4%BD%A0.mp3",
+			title : "19岁",
+			artist : "赵雷",
+			mp3 : "http://p22h841lq.bkt.clouddn.com/%E5%89%8D%E5%86%B2%20-%2019%E5%B2%81%EF%BC%88Cover%20%E8%B5%B5%E9%9B%B7%EF%BC%89.mp3",
+			cover : "http://p4.music.126.net/Nn8kTtc14uWJw_UWbEc5mg==/7909886650478099.jpg?param=106x106",
+			},
+			{
+			title : "成都",
+			artist : "赵雷",
+			mp3 : "http://p22h841lq.bkt.clouddn.com/%E8%B5%B5%E9%9B%B7%20-%20%E6%88%90%E9%83%BD.mp3",
+			cover : "http://p4.music.126.net/Nn8kTtc14uWJw_UWbEc5mg==/7909886650478099.jpg?param=106x106",
+			},
+			{
+			title : "山丘",
+			artist : "李宗盛",
+			mp3 : "http://p22h841lq.bkt.clouddn.com/%E6%9D%8E%E5%AE%97%E7%9B%9B%20-%20%E5%B1%B1%E4%B8%98%20%28Live%29.mp3",
 			cover : "http://p4.music.126.net/Nn8kTtc14uWJw_UWbEc5mg==/7909886650478099.jpg?param=106x106",
 			}
 			];
