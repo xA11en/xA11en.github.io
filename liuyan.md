@@ -79,6 +79,7 @@ comments: true
 			];
 	var isRotate = true;
 	var autoplay = true;
+
 </script>
 <script src="/js/player.js"></script>
 <script>
