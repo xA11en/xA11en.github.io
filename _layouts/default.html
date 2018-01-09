@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
-
+	
   {% include head.html %}
 
   <body style="height:1000px;">
-
+   <div id="tp-weather-widget" class="xc"></div>
    <meta name="baidu-site-verification" content="0L5MKMrHOb" />
 
     <span class="mobile btn-mobile-menu">        
@@ -33,7 +33,7 @@
         <div class="content-wrapper__inner">
             {{ content }}
             {% if site.data.social.valine_comment.enable and page.comments == true %}
-		<span style="color: red">下面昵称“Anonymous”是可以修改成你自己留言的昵称，方便站长找到你呦~~~</span>
+		<span style="color: red">↓↓↓↓下面可以填写自己的昵称呦，方便站长找到你呦~~~</span>
         <div id="comments"></div>
         {% endif %}
     {% include footer.html %}
@@ -54,6 +54,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <script type="text/javascript" src="/js/jquery.xiaoren.js"></script>
 <script type="text/javascript" src="/js/spig.js"></script>
+<script type="text/javascript" src="/js/weather.js"></script>
 <link rel="stylesheet" href="/css/xiaoren.css" type="text/css"/>
 <script type="text/javascript">
 var isindex = true;
