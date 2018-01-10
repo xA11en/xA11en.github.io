@@ -23,7 +23,7 @@
 			tpwidget("init", {
 				"flavor": "slim",
 				"location": "WX4FBXXFKE4F",
-				"geolocation": "disabled",
+				"geolocation": "enabled",
 				"language": "zh-chs",
 				"unit": "c",
 				"theme": "chameleon",
